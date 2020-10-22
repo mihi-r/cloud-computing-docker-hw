@@ -1,0 +1,10 @@
+All text files present: 
+test2.txt 
+test.txt 
+Word count of each file: 
+test2.txt = 10 
+test.txt = 4 
+Total number of words in all files: 14 
+Filename with max words: 
+test2.txt 
+IP: 192.168.200.171 
